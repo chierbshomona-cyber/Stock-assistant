@@ -1,0 +1,6 @@
+{
+  "name": "AI 智能头条 (Stock Intelligence Assistant)",
+  "description": "A lightweight web tool for deep stock intelligence analysis powered by Gemini AI with Google Search grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
